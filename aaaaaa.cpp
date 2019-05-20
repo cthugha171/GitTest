@@ -1,0 +1,4 @@
+void Death()
+{
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+}
